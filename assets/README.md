@@ -25,3 +25,7 @@ Launch [Daily Planner](https://calebthecreative.github.io/daily-planner/)
 1) Open the daily planner.
 2) Fill out your plans for the day in the necessary time slot.
 3) Press the save button to the right of your entry.
+
+## Screenshot
+
+![image](Screenshot.png)
